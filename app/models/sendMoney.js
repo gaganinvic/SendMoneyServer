@@ -18,440 +18,440 @@ module.exports = {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '&pound;', name: 'EUR'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '&yen;', name: 'JPY'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '&pound;', name: 'EUR'}
             },
             {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '&yen;', name: 'JPY'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },           {
                 "sentOn" : "12/5/2013",
                 "sentTo" : "John Doe",
                 "amount" : 123.45,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "12/1/2013",
                 "sentTo" : "Starbucks",
                 "amount" : 3.34,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/22/2013",
                 "sentTo" : "Jane Jones",
                 "amount" : 10.00,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             },
             {
                 "sentOn" : "11/6/2013",
                 "sentTo" : "Applebee",
                 "amount" : 35.42,
-                "currency" : "$"
+                "currency" : {id: '$', name: 'USD'}
             }
         ];
         callback(null, data);
